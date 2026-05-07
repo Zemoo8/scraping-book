@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+pandas>=2.2.2
+plotly>=5.22.0
+scikit-learn>=1.6.0
+streamlit>=1.35.0
+lxml>=5.2.2
