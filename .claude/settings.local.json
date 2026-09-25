@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(python --version; python -c \"import sys; print\\(sys.version\\)\")",
-      "PowerShell(python -m streamlit --version 2>&1)",
-      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\LENOVO\\\\Desktop\\\\scraping book\" -Recurse | Where-Object {!$_.PSIsContainer} | Select-Object -ExpandProperty FullName)"
-    ]
-  }
-}

@@ -10,3 +10,6 @@ venv/
 *.egg-info/
 dist/
 build/
+
+# Local editor / assistant settings
+.claude/settings.local.json
